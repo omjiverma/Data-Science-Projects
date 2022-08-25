@@ -2,3 +2,6 @@
 <br>
 <h2>Here you can find my Data Science Projects</h2>
 <img src='Data-Science.jpg'>
+
+<h2> Time Series Projects </h2>
+
