@@ -6,6 +6,7 @@
 <h3> <a href="https://github.com/omjiverma/Electricity-Production-US-Time-Series">1. Time Series Analysis and Forecasting of US Power Production</a> </h3>
 <h3> <a href="https://github.com/omjiverma/Website-Daily-Visitors-Forecasting">2. Website Daily Visitors Forecast</a> </h3>
 <h3> <a href="https://github.com/omjiverma/DLF-Stock-Price-Predicting-LSTM">3. DLF Stock Price Predicting LSTM</a> </h3>
+<h3> <a href="https://github.com/omjiverma/Infosys-Stock-Price-Forcasting">4. Infosys Stock Price Forecasting</a> </h3>
 
 <h2> Market and Customer Analysis Projects </h2>
 
