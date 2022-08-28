@@ -14,6 +14,7 @@
 
 <h2> Auto ML Projects </h2>
 <h3> <a href="https://github.com/omjiverma/Milk-Quality-Prediction">1. Milk Quality Prediction </a> </h3>
+<h3> <a href="https://github.com/omjiverma/Diabetes-Prediction-with-Machine-Learning">2. Predicting Diabetes with Machine Learning </a> </h3>
 
 
 <h2> Deep Learning Projects </h2>
