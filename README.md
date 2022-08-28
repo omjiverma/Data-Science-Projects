@@ -12,5 +12,9 @@
 <h3> <a href="https://github.com/omjiverma/Ad-Click-Customer-Segmentating">2. Customer Segementation for better ads compaining </a> </h3>
 <h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">3. Customer Conversion Prediction </a> </h3>
 
-<h2> Auto ML s Projects </h2>
+<h2> Auto ML Projects </h2>
 <h3> <a href="https://github.com/omjiverma/Milk-Quality-Prediction">1. Milk Quality Prediction </a> </h3>
+
+
+<h2> Deep Learning Projects </h2>
+<h3> <a href="https://github.com/omjiverma/Credit-Card-Fraud-Detection">1. Credit Card Fraud Detection </a> </h3>
