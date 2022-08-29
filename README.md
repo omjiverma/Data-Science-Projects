@@ -10,9 +10,10 @@
 
 <h2> Market and Customer Analysis Projects </h2>
 
-<h3> <a href="https://github.com/omjiverma/Market-Basket-Analysis">1. Market Basket Analysis </a> </h3>
-<h3> <a href="https://github.com/omjiverma/Ad-Click-Customer-Segmentating">2. Customer Segementation for better ads compaining </a> </h3>
-<h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">3. Customer Conversion Prediction </a> </h3>
+<h3> <a href="https://github.com/omjiverma/Customer-Purchase-Behaviour-Analysis">1. Customer Purchase Behaviour Analysis</a> </h3>
+<h3> <a href="https://github.com/omjiverma/Market-Basket-Analysis">2. Market Basket Analysis </a> </h3>
+<h3> <a href="https://github.com/omjiverma/Ad-Click-Customer-Segmentating">3. Customer Segementation for better ads compaining </a> </h3>
+<h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">1. Customer Conversion Prediction </a> </h3>
 
 <h2> Auto ML Projects </h2>
 <h3> <a href="https://github.com/omjiverma/Milk-Quality-Prediction">1. Milk Quality Prediction </a> </h3>
