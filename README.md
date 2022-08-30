@@ -13,7 +13,7 @@
 <h3> <a href="https://github.com/omjiverma/Customer-Purchase-Behaviour-Analysis">1. Customer Purchase Behaviour Analysis</a> </h3>
 <h3> <a href="https://github.com/omjiverma/Market-Basket-Analysis">2. Market Basket Analysis </a> </h3>
 <h3> <a href="https://github.com/omjiverma/Ad-Click-Customer-Segmentating">3. Customer Segementation for better ads compaining </a> </h3>
-<h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">1. Customer Conversion Prediction </a> </h3>
+<h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">4. Customer Conversion Prediction </a> </h3>
 
 <h2> ML Projects </h2>
 <h3> <a href="https://github.com/omjiverma/ML-Projects-Portfolio/tree/main/Cement%20Strength%20Prediction">1. Cement Strength Prediction </a> </h3>
