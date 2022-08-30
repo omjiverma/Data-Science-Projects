@@ -35,3 +35,7 @@
 <h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/Bird-Classification-Resnet">6. Bird Classification Resnet </a> </h3>
 
 <h2> Natural Language Processing Projects </h2>
+<h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/SMS-Spam-Detection"> </a>1. SMS SPAM DETECTION </h3>
+<h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/Movie-Genre-CLassification">2. Movie Genre CLassification </a> </h3>
+<h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/Hotel-Reviews-Sentiments-Analysis"> </a>3. Hotel Reviews Sentiments Analysis </h3>
+<h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/TripAdvisor-Reviews-Sentiments-Analysis"> </a>4. TripAdvisor Reviews Sentiments Analysis </h3>
