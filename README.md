@@ -15,6 +15,12 @@
 <h3> <a href="https://github.com/omjiverma/Ad-Click-Customer-Segmentating">3. Customer Segementation for better ads compaining </a> </h3>
 <h3> <a href="https://github.com/omjiverma/Customer-Conversion-Prediction">1. Customer Conversion Prediction </a> </h3>
 
+<h2> ML Projects </h2>
+<h3> <a href="https://github.com/omjiverma/ML-Projects-Portfolio/tree/main/Cement%20Strength%20Prediction">1. Cement Strength Prediction </a> </h3>
+<h3> <a href="https://github.com/omjiverma/ML-Projects-Portfolio/tree/main/Heart%20Disease%20Prediction%20using%20ML">2. Heart Disease Prediction with ML </a> </h3>
+<h3> <a href="https://github.com/omjiverma/ML-Projects-Portfolio/tree/main/Breast-Cancer-Detection-with-Machine-Learning">3. Breast Cancer Detection with Machine Learning </a> </h3>
+<h3> <a href="https://github.com/omjiverma/ML-Projects-Portfolio/tree/main/Stellar%20Classsification%20Project">4. Stellar Classsification </a> </h3>
+
 <h2> Auto ML Projects </h2>
 <h3> <a href="https://github.com/omjiverma/Milk-Quality-Prediction">1. Milk Quality Prediction </a> </h3>
 <h3> <a href="https://github.com/omjiverma/Diabetes-Prediction-with-Machine-Learning">2. Predicting Diabetes with Machine Learning </a> </h3>
@@ -24,5 +30,8 @@
 <h3> <a href="https://github.com/omjiverma/Credit-Card-Fraud-Detection">1. Credit Card Fraud Detection </a> </h3>
 <h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/intel-dataset-image-classification">2. Intel Dataset Image Classification </a> </h3>
 <h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/Flower-Identification">3. Flower Identification </a> </h3>
+<h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/Gender%20Classification%20from%20Images%20Convolutional%20NN">4. Gender Classification from Images Convolutional NN </a> </h3>
+<h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/Malaria%20Cell%20Detection">5. Malaria Cell Detection </a> </h3>
+<h3> <a href="https://github.com/omjiverma/My-Deep-Learning-Projects/tree/main/Bird-Classification-Resnet">6. Bird Classification Resnet </a> </h3>
 
 <h2> Natural Language Processing Projects </h2>
