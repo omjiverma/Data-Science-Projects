@@ -42,4 +42,4 @@
 
 
 <h2> Tableau Projects </h2>
-<h3> <a href="https://public.tableau.com/app/profile/abid/viz/IndiasPowerConsumptionDashboard/Dashboard1">1. India Power Consumption Dashboard </a> </h3>
+<h3> <a href="https://public.tableau.com/app/profile/omji.verma/viz/PowerConsumptionDash/PowerDashboard">1. India Power Consumption Dashboard </a> </h3>
