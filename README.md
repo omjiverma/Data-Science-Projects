@@ -39,3 +39,7 @@
 <h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/Movie-Genre-CLassification">2. Movie Genre CLassification </a> </h3>
 <h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/Hotel-Reviews-Sentiments-Analysis">3. Hotel Reviews Sentiments Analysis </a> </h3>
 <h3> <a href="https://github.com/omjiverma/My-NLP-Projects/tree/main/TripAdvisor-Reviews-Sentiments-Analysis">4. TripAdvisor Reviews Sentiments Analysis </a> </h3>
+
+
+<h2> Tableau Projects </h2>
+<h3> <a href="https://public.tableau.com/app/profile/abid/viz/IndiasPowerConsumptionDashboard/Dashboard1">1. India Power Consumption Dashboard </a> </h3>
